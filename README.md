@@ -65,5 +65,5 @@ You can [say thanks] SandeepKaza if you want!
 This project is under the [MIT Licence]
 
 ## Star History
-
+[![Star History Chart](https://api.star-history.com/svg?repos=sandeepkaza/Wireguard-Script&type=Date)](https://star-history.com/#sandeepkaza/Wireguard-Script&Date)
 
