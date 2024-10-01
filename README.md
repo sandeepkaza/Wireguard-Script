@@ -1,6 +1,4 @@
-# WireGuard installer
-
-!
+# WireGuard installer Script
 
 **This project is a bash script that aims to setup a [WireGuard](https://www.wireguard.com/) VPN on a Linux server, as easily as possible!**
 
@@ -46,8 +44,6 @@ I recommend these cheap cloud providers for your VPN server:
 - [Hetzner] Germany, Finland and USA. IPv6, 20 TB of traffic, starting at 4.5€/month
 - [Digital Ocean] Worldwide locations, IPv6 support, starting at \$4/month
 
-## Contributing
-
 ## Discuss changes
 
 Please open an issue before submitting a PR if you want to discuss a change, especially if it's a big one.
@@ -60,10 +56,11 @@ We use [shellcheck](https://github.com/koalaman/shellcheck) and [shfmt](https://
 
 You can [say thanks] SandeepKaza if you want!
 
+## [Buy Me A Coffee](https://buymeacoffee.com/sandeepkaza)
+
 ## Credits & Licence
 
 This project is under the [MIT Licence]
 
 ## Star History
 [![Star History Chart](https://api.star-history.com/svg?repos=sandeepkaza/Wireguard-Script&type=Date)](https://star-history.com/#sandeepkaza/Wireguard-Script&Date)
-
