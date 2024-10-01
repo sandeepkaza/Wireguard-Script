@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Secure WireGuard server installer
-# https://github.com/angristan/wireguard-install
+# https://github.com/sandeepkaza/Wireguard-Script
 
 RED='\033[0;31m'
 ORANGE='\033[0;33m'
@@ -484,8 +484,8 @@ function uninstallWg() {
 }
 
 function manageMenu() {
-	echo "Welcome to WireGuard-install!"
-	echo "The git repository is available at: https://github.com/angristan/wireguard-install"
+	echo "Welcome to WireGuard-Script"
+	echo "The git repository is available at: https://github.com/sandeepkaza/Wireguard-Script"
 	echo ""
 	echo "It looks like WireGuard is already installed."
 	echo ""
